@@ -1,5 +1,6 @@
 sky_food
 2.16
+<<<<<<< HEAD
 file:///Users/phanducanh/Desktop/BAITAP_THANG/Clone%20Git/demo/
 file:///Users/phanducanh/Desktop/BAITAP_THANG/Clone%20Git/demo/lib/
 _fe_analyzer_shared
@@ -646,4 +647,8 @@ flutter_web_plugins
 2.17
 file:///Users/phanducanh/development/flutter/packages/flutter_web_plugins/
 file:///Users/phanducanh/development/flutter/packages/flutter_web_plugins/lib/
+=======
+file:///D:/fluter-mobile/baitapvenha/demo/
+file:///D:/fluter-mobile/baitapvenha/demo/lib/
+>>>>>>> origin/develop
 2

@@ -974,7 +974,11 @@
       "languageVersion": "2.16"
     }
   ],
+<<<<<<< HEAD
   "generated": "2022-12-26T13:09:33.461862Z",
+=======
+  "generated": "2022-12-26T12:49:58.568415Z",
+>>>>>>> origin/develop
   "generator": "pub",
   "generatorVersion": "2.18.1"
 }
